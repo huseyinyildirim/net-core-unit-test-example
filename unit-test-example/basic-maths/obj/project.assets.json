@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/Maths.csproj",
-      "projectName": "Maths",
-      "projectPath": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/Maths.csproj",
+      "projectUniqueName": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/basic-maths/basic-maths.csproj",
+      "projectName": "basic-maths",
+      "projectPath": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/basic-maths/basic-maths.csproj",
       "packagesPath": "/Users/huseyinyildirim/.nuget/packages/",
-      "outputPath": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/",
+      "outputPath": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/basic-maths/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/huseyinyildirim/.config/NuGet/NuGet.Config"

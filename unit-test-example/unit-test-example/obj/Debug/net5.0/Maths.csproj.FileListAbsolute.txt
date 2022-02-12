@@ -1,0 +1,15 @@
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/Maths.deps.json
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/Maths.runtimeconfig.json
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/Maths.runtimeconfig.dev.json
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/Maths.dll
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/ref/Maths.dll
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/Maths.pdb
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/Maths.csproj.AssemblyReference.cache
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/Maths.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/Maths.AssemblyInfoInputs.cache
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/Maths.AssemblyInfo.cs
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/Maths.csproj.CoreCompileInputs.cache
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/Maths.dll
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/ref/Maths.dll
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/Maths.pdb
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/Maths.genruntimeconfig.cache

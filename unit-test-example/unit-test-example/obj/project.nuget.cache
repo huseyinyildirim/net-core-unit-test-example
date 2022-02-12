@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ceV/unwnk90i/OjCmkDTry4jcyX06I0JnM7CvZOEuGYnn96nD16wFEgr7fjNHnVrbGzSauBKLue1BRy0suApwQ==",
+  "dgSpecHash": "v8k7uvMM21U/UMLrB2c0GIAvsa9q0Sh+KFySKa6rCHGmXISy/+vAmpy/u+AAcfxxCTflY1k/YOClMnHgBO4xMw==",
   "success": true,
-  "projectFilePath": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/unit-test-example.csproj",
+  "projectFilePath": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/Maths.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

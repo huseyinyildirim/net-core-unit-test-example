@@ -1,30 +1,27 @@
-﻿<Properties StartupConfiguration="{1A68066A-B8F0-446F-83E0-AFB3DAD77C26}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="unit-test-example/Program.cs">
+﻿<Properties StartupConfiguration="{FA33FCC7-E45A-4A12-A183-426B0EF24B85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="basic-maths/BasicMaths.cs">
     <Files>
-      <File FileName="unit-test-example/BasicMaths.cs" Line="3" Column="28" />
-      <File FileName="unit-test-example/Program.cs" Line="4" Column="2" />
+      <File FileName="basic-maths/Program.cs" Line="1" Column="1" />
+      <File FileName="basic-maths/BasicMaths.cs" Line="24" Column="6" />
+      <File FileName="../basic-maths-unit-test/UnitTest1.cs" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="unit-test-example" expanded="True">
-            <Node name="UnitTest" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="ProjectDependencies" expanded="True" />
-              </Node>
+            <Node name="basic-maths" expanded="True">
+              <Node name="BasicMaths.cs" selected="True" />
             </Node>
-            <Node name="unit-test-example" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="basic-maths-unit-test" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="unit-test-example" expanded="True" selected="True">
-            <Node name="UnitTest" expanded="True">
-              <Node name="UnitTest" expanded="True">
-                <Node name="UnitTest1" expanded="True" />
+            <Node name="basic-maths-unit-test" expanded="True">
+              <Node name="basic_maths_unit_test" expanded="True">
+                <Node name="BasicMathsUnitTest" expanded="True" />
               </Node>
             </Node>
           </Node>
@@ -32,11 +29,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.basic-maths PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.unit-test-example PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
