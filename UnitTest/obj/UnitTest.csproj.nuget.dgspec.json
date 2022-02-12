@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/huseyinyildirim/Desktop/netcore/UnitTest/UnitTest.csproj": {}
+  },
+  "projects": {
+    "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/unit-test-example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/unit-test-example.csproj",
+        "projectName": "unit-test-example",
+        "projectPath": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/unit-test-example.csproj",
+        "packagesPath": "/Users/huseyinyildirim/.nuget/packages/",
+        "outputPath": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huseyinyildirim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/huseyinyildirim/Desktop/netcore/UnitTest/UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/huseyinyildirim/Desktop/netcore/UnitTest/UnitTest.csproj",
+        "projectName": "UnitTest",
+        "projectPath": "/Users/huseyinyildirim/Desktop/netcore/UnitTest/UnitTest.csproj",
+        "packagesPath": "/Users/huseyinyildirim/.nuget/packages/",
+        "outputPath": "/Users/huseyinyildirim/Desktop/netcore/UnitTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/huseyinyildirim/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/unit-test-example.csproj": {
+                "projectPath": "/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/unit-test-example.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

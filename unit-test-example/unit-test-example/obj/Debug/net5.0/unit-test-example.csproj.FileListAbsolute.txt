@@ -1,0 +1,15 @@
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/unit-test-example.deps.json
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/unit-test-example.runtimeconfig.json
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/unit-test-example.runtimeconfig.dev.json
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/unit-test-example.dll
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/ref/unit-test-example.dll
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/bin/Debug/net5.0/unit-test-example.pdb
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/unit-test-example.csproj.AssemblyReference.cache
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/unit-test-example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/unit-test-example.AssemblyInfoInputs.cache
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/unit-test-example.AssemblyInfo.cs
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/unit-test-example.csproj.CoreCompileInputs.cache
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/unit-test-example.dll
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/ref/unit-test-example.dll
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/unit-test-example.pdb
+/Users/huseyinyildirim/Desktop/netcore/unit-test-example/unit-test-example/obj/Debug/net5.0/unit-test-example.genruntimeconfig.cache
